@@ -1,7 +1,7 @@
 # yfztravel
  YFZ Travel Hotels Blog
 
-https://yfztravel.com is a travel blog that gives a lot of information about hotels, restaurants and all the info you need for your next trip.
+<a href="https://yfztravel.com">Travel Blog</a> is a travel blog that gives a lot of information about hotels, restaurants and all the info you need for your next trip.
 
 https://yfztravel.com gives option to download google maps for several cities in the world for FREE.
 
